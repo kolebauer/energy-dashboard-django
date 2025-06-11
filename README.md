@@ -8,7 +8,7 @@ The data used simulates building-level or system-level electricity usage sampled
 
 To run the web app locally, install the dependencies below, then use the command `python manage.py runserver` and visit `http://127.0.0.1:8000` in your browser. The homepage will guide you to upload data and view statistics and visualizations.
 
-[Software Demo Video (Work In Progress)](Work In Progress)
+[Software Demo Video - (Work In Progress)]
 
 # Web Pages
 
